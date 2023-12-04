@@ -1,4 +1,4 @@
-# MagicAnalyser
+# EasyAnalyst
 
 MagicAnalyser is a user-friendly data analysis tool that allows users to quickly visualize and analyze their datasets. With a simple and intuitive interface, users can gain insights from their data without the need for complex programming or tools.
 
@@ -6,6 +6,7 @@ MagicAnalyser is a user-friendly data analysis tool that allows users to quickly
 
 - `Pandas AI`
 - `Streamlit`
+- `PygWalker`
 
 ## Application Areas
 
@@ -42,7 +43,7 @@ MagicAnalyser is a user-friendly data analysis tool that allows users to quickly
 
 ## Usage
 
-1. Start the app: `streamlit run MagicAnalyser.py`
+1. Start the app: `streamlit run app.py`
 2. Upload your CSV or Excel file in the "Home" page.
 3. Navigate to the "QA Analysis" page to ask analysis questions.
 4. Navigate to the Visualization page to interactively visualize data using graphs, plots, etc.
