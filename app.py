@@ -23,7 +23,7 @@ llm = OpenAI(api_token="")
 
 # Main app
 def main():
-    st.sidebar.title("MagicAnalyser")
+    st.sidebar.title("Easy Analyst")
     uploaded_file = st.sidebar.file_uploader("Upload a CSV or Excel file", type=["csv", "xlsx"], key="file_uploader")
     
     if uploaded_file:
@@ -73,7 +73,7 @@ def analysis_page():
         st.image("upload.jpg", caption="Upload a file on the menu panel", use_column_width=True)
 
 def usage_page():
-    st.header("How to Use MagicAnalyser:")
+    st.header("How to Use Easy Analyst:")
     st.subheader("Step 1: Upload Data")
     st.write("📂 Start on the 'Home' page.")
     st.write("📎 Upload your data file (CSV or Excel) using the 'Upload a CSV or Excel file' section on the left panel.")
@@ -97,7 +97,7 @@ def usage_page():
     st.write("2. The 'Home' page displays an image, introductory content, and sample charts.")
     st.write("3. The 'Usage' page provides this user manual.")
 
-    st.write("Enjoy using MagicAnalyser to analyze your data and discover valuable insights!")
+    st.write("Enjoy using EasyAnalyst to analyze your data and discover valuable insights!")
 
 if __name__ == "__main__":
     main()
