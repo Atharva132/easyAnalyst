@@ -40,6 +40,7 @@ MagicAnalyser is a user-friendly data analysis tool that allows users to quickly
 
 1. Clone or download the repository
 2. Install required dependencies: `pip install -r requirements.txt`
+3. Set the OpenAI API key in app.py
 
 ## Usage
 
