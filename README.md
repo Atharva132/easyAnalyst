@@ -6,6 +6,7 @@ MagicAnalyser is a user-friendly data analysis tool that allows users to quickly
 
 - `Pandas AI`
 - `Streamlit`
+- `PygWalker`
 
 ## Application Areas
 
