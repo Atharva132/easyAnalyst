@@ -1,6 +1,6 @@
 # EasyAnalyst
 
-MagicAnalyser is a user-friendly data analysis tool that allows users to quickly visualize and analyze their datasets. With a simple and intuitive interface, users can gain insights from their data without the need for complex programming or tools.
+EasyAnalyst is a user-friendly data analysis tool that allows users to quickly visualize and analyze their datasets. With a simple and intuitive interface, users can gain insights from their data without the need for complex programming or tools.
 
 ## Used technologies:
 
